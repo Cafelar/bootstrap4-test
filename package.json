@@ -8,12 +8,20 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "Caio Felix de Araujo",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.2.2"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cafelar/bootstrap4-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cafelar/bootstrap4-test/issues"
+  },
+  "homepage": "https://github.com/Cafelar/bootstrap4-test#readme"
 }
