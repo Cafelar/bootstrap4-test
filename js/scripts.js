@@ -13,3 +13,11 @@ $(document).ready(function(){
         }
     });
 })
+
+$('#btnLogin').click(function(){
+    $('#loginModal').modal('show');
+})
+
+$('#btnReserveTable').click(function(){
+    $('#reservationModal').modal('show');
+})
